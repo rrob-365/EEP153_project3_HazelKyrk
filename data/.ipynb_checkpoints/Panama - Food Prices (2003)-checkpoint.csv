@@ -1,0 +1,838 @@
+t,m,j,u,Price
+2003,Bocas del Toro,Aceite Vegetal,kg,18.16996872
+2003,Bocas del Toro,Aguacates,kg,1.52E-06
+2003,Bocas del Toro,Ahí Verde,kg,0.1360793585
+2003,Bocas del Toro,Ajo,kg,0.1814383027
+2003,Bocas del Toro,Alimento Infantil,kg,6.30E-06
+2003,Bocas del Toro,Apio,kg,0.1360796054
+2003,Bocas del Toro,Arroz,kg,0.068039075
+2003,Bocas del Toro,Arvejas,kg,0.2721552108
+2003,Bocas del Toro,Azúcar,kg,0.2555388
+2003,Bocas del Toro,Café Y Té,kg,0.2834972727
+2003,Bocas del Toro,Carne De Res,kg,0.680388
+2003,Bocas del Toro,Carnes De Puerco,kg,0.6329190417
+2003,Bocas del Toro,Cebolla,kg,0.1133986849
+2003,Bocas del Toro,Cereales Y Cremas,kg,0.1360791618
+2003,Bocas del Toro,Chocolates,kg,1.315420593
+2003,Bocas del Toro,Cigarrillo Y Tabaco,kg,0.0001666666667
+2003,Bocas del Toro,Cocos (Pipas),kg,0.056699
+2003,Bocas del Toro,Condimentos,kg,0.3628802964
+2003,Bocas del Toro,"Culanto, Perejil, Cebollina",kg,0.226801
+2003,Bocas del Toro,Embutidos,kg,0.2948369526
+2003,Bocas del Toro,Enlatados Y Envasados,kg,2.59E-06
+2003,Bocas del Toro,Frijoles,kg,0.3175143946
+2003,Bocas del Toro,Galletas / Pasteles Y Dulces,kg,0.6520402226
+2003,Bocas del Toro,Gelatinas,kg,0.1559244525
+2003,Bocas del Toro,Guineos (Bananos),kg,0.01079980952
+2003,Bocas del Toro,Harina De Trigo,kg,0.1360776054
+2003,Bocas del Toro,Helados,kg,23.84808372
+2003,Bocas del Toro,Huevos De Gallina,kg,2.00E-06
+2003,Bocas del Toro,Lecha Evaporada,kg,2.06E-06
+2003,Bocas del Toro,Leche En Polvo,kg,1.816776514
+2003,Bocas del Toro,Leche Líquida,kg,12.52970688
+2003,Bocas del Toro,Lechuga,kg,0.2721551928
+2003,Bocas del Toro,Lentejas,kg,0.2721552108
+2003,Bocas del Toro,Limones,kg,5.95E-07
+2003,Bocas del Toro,Manteca,kg,0.1553559642
+2003,Bocas del Toro,Mantequilla,kg,0.3061783419
+2003,Bocas del Toro,Manzanas,kg,0.453592
+2003,Bocas del Toro,Margarina,kg,0.22679785
+2003,Bocas del Toro,Mariscos,kg,0.5830564931
+2003,Bocas del Toro,Mayonesa,kg,6.14E-06
+2003,Bocas del Toro,Maíz De Grano,kg,0.0907184
+2003,Bocas del Toro,Maíz De Mazorca,kg,0.07820552066
+2003,Bocas del Toro,Melones,kg,0.2154562018
+2003,Bocas del Toro,Miel,kg,5.66E-06
+2003,Bocas del Toro,Naranjas,kg,0.04123563547
+2003,Bocas del Toro,Otoes,kg,0.1360776054
+2003,Bocas del Toro,Pan De Sal Y Pan De Dulce,kg,0.0907194
+2003,Bocas del Toro,"Panela, Raspadura, Etc",kg,0.2041164
+2003,Bocas del Toro,Papas,kg,0.1814368072
+2003,Bocas del Toro,Papayas,kg,0.1279362048
+2003,Bocas del Toro,Pastas Alimenticias,kg,0.1474181446
+2003,Bocas del Toro,Pastas De Tomate,kg,3.84E-06
+2003,Bocas del Toro,Pastillas Y Confites,kg,0.3401956667
+2003,Bocas del Toro,Pepino,kg,0.113398
+2003,Bocas del Toro,Pescados,kg,0.453592
+2003,Bocas del Toro,Picaritas,kg,6.13E-06
+2003,Bocas del Toro,Piñas,kg,0.1511973333
+2003,Bocas del Toro,Plátanos Verdes,kg,0.04361461698
+2003,Bocas del Toro,Pollo O Gallina,kg,0.453592
+2003,Bocas del Toro,Porotos,kg,0.3628736054
+2003,Bocas del Toro,Preparación De Maíz,kg,0.1360783407
+2003,Bocas del Toro,Primer otro,kg,0.1814388909
+2003,Bocas del Toro,Queso (Blanco Y Amarillo),kg,0.453595125
+2003,Bocas del Toro,Raspados Y Duros,kg,1.87E-06
+2003,Bocas del Toro,Remolacha,kg,0.1360790443
+2003,Bocas del Toro,Repollo,kg,0.226796
+2003,Bocas del Toro,Sal,kg,0.05669938149
+2003,Bocas del Toro,Sandias,kg,0.1412659129
+2003,Bocas del Toro,Sardina Y Atún,kg,0.1133998309
+2003,Bocas del Toro,Segundo otro,kg,0.2041163973
+2003,Bocas del Toro,"Sodas, Refrescos Y Jugos",kg,7.003013468
+2003,Bocas del Toro,Sopa Enlatada,kg,5.83E-06
+2003,Bocas del Toro,Tercer otro,kg,4.75E-06
+2003,Bocas del Toro,Tomate,kg,0.2721552108
+2003,Bocas del Toro,Viscera De Res,kg,0.5443104036
+2003,Bocas del Toro,Visceras De Pollo O Gallina,kg,0.3023946667
+2003,Bocas del Toro,Yuca,kg,0.09071840135
+2003,Bocas del Toro,Zanahoria,kg,0.1020584473
+2003,Bocas del Toro,Zapallo / Chayote,kg,0.113398
+2003,Bocas del Toro,Ñame,kg,0.1814368027
+2003,Chíriqui,Aceite Vegetal,kg,18.45387375
+2003,Chíriqui,Aguacates,kg,0.148835632
+2003,Chíriqui,Ahí Verde,kg,0.2721552108
+2003,Chíriqui,Ajo,kg,0.1589703443
+2003,Chíriqui,Alimento Infantil,kg,0.9525464788
+2003,Chíriqui,Apio,kg,0.1190699014
+2003,Chíriqui,Arroz,kg,0.06803905
+2003,Chíriqui,Arvejas,kg,0.2494756009
+2003,Chíriqui,Azúcar,kg,0.3012119003
+2003,Chíriqui,Café Y Té,kg,0.3175166673
+2003,Chíriqui,Carne De Res,kg,0.7257472288
+2003,Chíriqui,Carnes De Puerco,kg,0.2834965
+2003,Chíriqui,Cebolla,kg,0.563398003
+2003,Chíriqui,Cereales Y Cremas,kg,0.1338111831
+2003,Chíriqui,Chocolates,kg,0.3061786887
+2003,Chíriqui,Cigarrillo Y Tabaco,kg,0.0001666666667
+2003,Chíriqui,Cocos (Pipas),kg,0.05154454434
+2003,Chíriqui,Condimentos,kg,0.3628807429
+2003,Chíriqui,"Culanto, Perejil, Cebollina",kg,0.1814393
+2003,Chíriqui,Embutidos,kg,0.2948364992
+2003,Chíriqui,Enlatados Y Envasados,kg,2.29E-06
+2003,Chíriqui,Frijoles,kg,0.1133987726
+2003,Chíriqui,Galletas / Pasteles Y Dulces,kg,0.2267975714
+2003,Chíriqui,Gelatinas,kg,0.351535848
+2003,Chíriqui,Guineos (Bananos),kg,0.02267970256
+2003,Chíriqui,Harina De Trigo,kg,0.1360776054
+2003,Chíriqui,Helados,kg,10.22060825
+2003,Chíriqui,Huevos De Gallina,kg,2.00E-06
+2003,Chíriqui,Lecha Evaporada,kg,1.94E-06
+2003,Chíriqui,Leche En Polvo,kg,1.736644794
+2003,Chíriqui,Leche Líquida,kg,10.40987768
+2003,Chíriqui,Lechuga,kg,0.1814368072
+2003,Chíriqui,Lentejas,kg,0.2721552108
+2003,Chíriqui,Limones,kg,0.2041164014
+2003,Chíriqui,Manteca,kg,0.1474184815
+2003,Chíriqui,Mantequilla,kg,0.2494766573
+2003,Chíriqui,Manzanas,kg,0.136078344
+2003,Chíriqui,Margarina,kg,0.2245295598
+2003,Chíriqui,Mariscos,kg,1.020582
+2003,Chíriqui,Mayonesa,kg,5.91E-06
+2003,Chíriqui,Maíz De Grano,kg,0.113398
+2003,Chíriqui,Maíz De Mazorca,kg,0.1000228571
+2003,Chíriqui,Melones,kg,0.1214978571
+2003,Chíriqui,Miel,kg,4.731765107
+2003,Chíriqui,Naranjas,kg,0.05873434872
+2003,Chíriqui,Otoes,kg,0.09071881802
+2003,Chíriqui,Pan De Sal Y Pan De Dulce,kg,0.1308445704
+2003,Chíriqui,"Panela, Raspadura, Etc",kg,0.07316204307
+2003,Chíriqui,Papas,kg,0.1814368
+2003,Chíriqui,Papayas,kg,0.09512139882
+2003,Chíriqui,Pastas Alimenticias,kg,0.1474179877
+2003,Chíriqui,Pastas De Tomate,kg,0.124739613
+2003,Chíriqui,Pastillas Y Confites,kg,0.2551475583
+2003,Chíriqui,Pepino,kg,0.1020581973
+2003,Chíriqui,Pescados,kg,0.56699
+2003,Chíriqui,Picaritas,kg,7.14E-06
+2003,Chíriqui,Piñas,kg,0.113398
+2003,Chíriqui,Plátanos Verdes,kg,0.06978338462
+2003,Chíriqui,Pollo O Gallina,kg,0.2455078837
+2003,Chíriqui,Porotos,kg,0.340194
+2003,Chíriqui,Preparación De Maíz,kg,0.1133986571
+2003,Chíriqui,Primer otro,kg,0.2267984008
+2003,Chíriqui,Queso (Blanco Y Amarillo),kg,0.3401967344
+2003,Chíriqui,Remolacha,kg,0.2041163946
+2003,Chíriqui,Repollo,kg,0.1814368027
+2003,Chíriqui,Sal,kg,0.05669927533
+2003,Chíriqui,Sandias,kg,0.0907184
+2003,Chíriqui,Sardina Y Atún,kg,0.2494777022
+2003,Chíriqui,Segundo otro,kg,0.2267976667
+2003,Chíriqui,"Sodas, Refrescos Y Jugos",kg,4.731764821
+2003,Chíriqui,Sopa Enlatada,kg,5.83E-06
+2003,Chíriqui,Tomate,kg,0.226796
+2003,Chíriqui,Viscera De Res,kg,0.453592
+2003,Chíriqui,Visceras De Pollo O Gallina,kg,0.1871078788
+2003,Chíriqui,Yuca,kg,0.0680388027
+2003,Chíriqui,Zanahoria,kg,0.1814368027
+2003,Chíriqui,Zapallo / Chayote,kg,0.0907184036
+2003,Chíriqui,Ñame,kg,0.2162121877
+2003,Coclé,Aceite Vegetal,kg,17.034345
+2003,Coclé,Aguacates,kg,0.1511980909
+2003,Coclé,Ahí Verde,kg,0.226796
+2003,Coclé,Ajo,kg,0.1700986667
+2003,Coclé,Alimento Infantil,kg,4.42E-06
+2003,Coclé,Apio,kg,0.2721552108
+2003,Coclé,Arroz,kg,0.1360776
+2003,Coclé,Arvejas,kg,0.226796
+2003,Coclé,Azúcar,kg,0.06123519641
+2003,Coclé,Café Y Té,kg,0.3855566199
+2003,Coclé,Carne De Res,kg,0.7257472198
+2003,Coclé,Carnes De Puerco,kg,0.56699
+2003,Coclé,Cebolla,kg,0.226796
+2003,Coclé,Cereales Y Cremas,kg,0.08731803265
+2003,Coclé,Chocolates,kg,8.55E-06
+2003,Coclé,Cigarrillo Y Tabaco,kg,0.0001666666667
+2003,Coclé,Cocos (Pipas),kg,0.03779933356
+2003,Coclé,Condimentos,kg,0.3628786054
+2003,Coclé,"Culanto, Perejil, Cebollina",kg,0.226801
+2003,Coclé,Embutidos,kg,0.2494783987
+2003,Coclé,Enlatados Y Envasados,kg,2.03E-06
+2003,Coclé,Frijoles,kg,0.226796
+2003,Coclé,Galletas / Pasteles Y Dulces,kg,0.6047908958
+2003,Coclé,Gelatinas,kg,4.71E-06
+2003,Coclé,Guineos (Bananos),kg,0.04535920124
+2003,Coclé,Harina De Trigo,kg,0.07937893615
+2003,Coclé,Helados,kg,11.73477183
+2003,Coclé,Huevos De Gallina,kg,1.76E-06
+2003,Coclé,Lecha Evaporada,kg,2.06E-06
+2003,Coclé,Leche En Polvo,kg,0.5159637696
+2003,Coclé,Leche Líquida,kg,10.59914752
+2003,Coclé,Lechuga,kg,0.2721552108
+2003,Coclé,Lentejas,kg,0.2721552
+2003,Coclé,Limones,kg,0.113398
+2003,Coclé,Manteca,kg,0.6350298186
+2003,Coclé,Mantequilla,kg,0.2267974063
+2003,Coclé,Manzanas,kg,0.226796744
+2003,Coclé,Margarina,kg,0.2267974375
+2003,Coclé,Mariscos,kg,0.5443104
+2003,Coclé,Mayonesa,kg,5.35E-06
+2003,Coclé,Maíz De Grano,kg,0.09071840135
+2003,Coclé,Maíz De Mazorca,kg,0.1088620807
+2003,Coclé,Melones,kg,0.2245280422
+2003,Coclé,Miel,kg,9.463525
+2003,Coclé,Naranjas,kg,0.0453592
+2003,Coclé,Otoes,kg,0.1814368027
+2003,Coclé,Pan De Sal Y Pan De Dulce,kg,0.1984473929
+2003,Coclé,"Panela, Raspadura, Etc",kg,0.05669980386
+2003,Coclé,Papas,kg,0.1814368027
+2003,Coclé,Papayas,kg,0.113398
+2003,Coclé,Pastas Alimenticias,kg,0.1247384105
+2003,Coclé,Pastas De Tomate,kg,3.86E-06
+2003,Coclé,Pastillas Y Confites,kg,4.63E-06
+2003,Coclé,Pepino,kg,0.113398
+2003,Coclé,Pescados,kg,0.226796
+2003,Coclé,Picaritas,kg,5.56E-06
+2003,Coclé,Piñas,kg,0.113398
+2003,Coclé,Plátanos Verdes,kg,0.05669976728
+2003,Coclé,Pollo O Gallina,kg,0.453592
+2003,Coclé,Porotos,kg,0.3628736054
+2003,Coclé,Preparación De Maíz,kg,0.1133985879
+2003,Coclé,Primer otro,kg,0.113398
+2003,Coclé,Queso (Blanco Y Amarillo),kg,0.4762747034
+2003,Coclé,Raspados Y Duros,kg,0.09071910084
+2003,Coclé,Remolacha,kg,0.1133990887
+2003,Coclé,Repollo,kg,0.226796
+2003,Coclé,Sal,kg,0.05669929412
+2003,Coclé,Sandias,kg,0.170097
+2003,Coclé,Sardina Y Atún,kg,3.39E-06
+2003,Coclé,"Sodas, Refrescos Y Jugos",kg,7.452526369
+2003,Coclé,Sopa Enlatada,kg,6.21E-06
+2003,Coclé,Tomate,kg,0.2721552108
+2003,Coclé,Viscera De Res,kg,0.524654751
+2003,Coclé,Visceras De Pollo O Gallina,kg,0.3175143946
+2003,Coclé,Yuca,kg,0.0680388
+2003,Coclé,Zanahoria,kg,0.226796
+2003,Coclé,Zapallo / Chayote,kg,0.09071840248
+2003,Coclé,Ñame,kg,0.2041163946
+2003,Colón,Aceite Vegetal,kg,9.009276888
+2003,Colón,Aguacates,kg,2.02E-06
+2003,Colón,Ahí Verde,kg,0.1133995152
+2003,Colón,Ajo,kg,0.1916437162
+2003,Colón,Alimento Infantil,kg,4.16E-06
+2003,Colón,Apio,kg,0.226796
+2003,Colón,Arroz,kg,0.1360776
+2003,Colón,Arvejas,kg,0.2494756054
+2003,Colón,Azúcar,kg,0.1360776054
+2003,Colón,Café Y Té,kg,0.3742200613
+2003,Colón,Carne De Res,kg,0.8164655784
+2003,Colón,Carnes De Puerco,kg,0.56699
+2003,Colón,Cebolla,kg,0.226796
+2003,Colón,Cereales Y Cremas,kg,0.08391702108
+2003,Colón,Chocolates,kg,7.50E-06
+2003,Colón,Cigarrillo Y Tabaco,kg,0.0001666666667
+2003,Colón,Cocos (Pipas),kg,0.226796
+2003,Colón,Condimentos,kg,0.3628807429
+2003,Colón,"Culanto, Perejil, Cebollina",kg,0.226801
+2003,Colón,Embutidos,kg,0.3152485453
+2003,Colón,Enlatados Y Envasados,kg,2.62E-06
+2003,Colón,Frijoles,kg,0.2721552108
+2003,Colón,Galletas / Pasteles Y Dulces,kg,3.14E-06
+2003,Colón,Gelatinas,kg,4.12E-06
+2003,Colón,Guineos (Bananos),kg,0.0680387982
+2003,Colón,Harina De Trigo,kg,0.1360776054
+2003,Colón,Helados,kg,9.823139335
+2003,Colón,Huevos De Gallina,kg,1.76E-06
+2003,Colón,Lecha Evaporada,kg,2.03E-06
+2003,Colón,Leche En Polvo,kg,2.477820643
+2003,Colón,Leche Líquida,kg,11.33730297
+2003,Colón,Lechuga,kg,0.1360781561
+2003,Colón,Lentejas,kg,0.2676192681
+2003,Colón,Limones,kg,0.2267963189
+2003,Colón,Mangos,kg,2.20E-07
+2003,Colón,Manteca,kg,0.05669981522
+2003,Colón,Mantequilla,kg,0.2267996875
+2003,Colón,Manzanas,kg,1.49E-06
+2003,Colón,Margarina,kg,0.2267974937
+2003,Colón,Mariscos,kg,1.13398
+2003,Colón,Mayonesa,kg,3.55E-06
+2003,Colón,Maíz De Grano,kg,0.0907184
+2003,Colón,Melones,kg,0.06614962447
+2003,Colón,Miel,kg,5.29E-06
+2003,Colón,Otoes,kg,0.1814368027
+2003,Colón,Pan De Sal Y Pan De Dulce,kg,1.62E-06
+2003,Colón,"Panela, Raspadura, Etc",kg,0.226796
+2003,Colón,Papas,kg,0.113398
+2003,Colón,Papayas,kg,0.113398
+2003,Colón,Pastas Alimenticias,kg,0.1247386167
+2003,Colón,Pastas De Tomate,kg,3.41E-06
+2003,Colón,Pastillas Y Confites,kg,0.2645989792
+2003,Colón,Pepino,kg,0.113398
+2003,Colón,Pescados,kg,0.2948348072
+2003,Colón,Picaritas,kg,7.14E-06
+2003,Colón,Piñas,kg,0.113398
+2003,Colón,Plátanos Verdes,kg,0.113398
+2003,Colón,Pollo O Gallina,kg,0.340194
+2003,Colón,Porotos,kg,0.3855532108
+2003,Colón,Preparación De Maíz,kg,0.1247393563
+2003,Colón,Queso (Blanco Y Amarillo),kg,0.5216339142
+2003,Colón,Remolacha,kg,0.226796
+2003,Colón,Repollo,kg,0.226796
+2003,Colón,Sal,kg,0.05669936755
+2003,Colón,Sandias,kg,0.07829861905
+2003,Colón,Sardina Y Atún,kg,2.94E-06
+2003,Colón,"Sodas, Refrescos Y Jugos",kg,3.387945628
+2003,Colón,Sopa Enlatada,kg,4.12E-06
+2003,Colón,Tomate,kg,0.2721552108
+2003,Colón,Viscera De Res,kg,0.453592
+2003,Colón,Visceras De Pollo O Gallina,kg,0.3288542
+2003,Colón,Yuca,kg,0.056699
+2003,Colón,Zanahoria,kg,0.09072018707
+2003,Colón,Zapallo / Chayote,kg,0.113398
+2003,Colón,Ñame,kg,0.09071884413
+2003,Comarca Emberá,Aceite Vegetal,kg,24.605165
+2003,Comarca Emberá,Ajo,kg,0.5669900084
+2003,Comarca Emberá,Arroz,kg,0.1587571986
+2003,Comarca Emberá,Azúcar,kg,0.1814368
+2003,Comarca Emberá,Café Y Té,kg,9.09E-06
+2003,Comarca Emberá,Carne De Res,kg,0.56699
+2003,Comarca Emberá,Carnes De Puerco,kg,0.453592
+2003,Comarca Emberá,Cebolla,kg,0.2721552108
+2003,Comarca Emberá,Cereales Y Cremas,kg,2.50E-06
+2003,Comarca Emberá,Cigarrillo Y Tabaco,kg,0.00016666666
+2003,Comarca Emberá,Embutidos,kg,0.56699
+2003,Comarca Emberá,Galletas / Pasteles Y Dulces,kg,4.69E-06
+2003,Comarca Emberá,Harina De Trigo,kg,0.1587571973
+2003,Comarca Emberá,Huevos De Gallina,kg,2.50E-06
+2003,Comarca Emberá,Lecha Evaporada,kg,2.06E-06
+2003,Comarca Emberá,Lentejas,kg,0.3628736054
+2003,Comarca Emberá,Pan De Sal Y Pan De Dulce,kg,2.86E-06
+2003,Comarca Emberá,Papas,kg,0.226796
+2003,Comarca Emberá,Pastas Alimenticias,kg,0.2721552108
+2003,Comarca Emberá,Pastas De Tomate,kg,4.27E-06
+2003,Comarca Emberá,Pastillas Y Confites,kg,1.43E-05
+2003,Comarca Emberá,Pescados,kg,0.226796
+2003,Comarca Emberá,Picaritas,kg,2.27E-06
+2003,Comarca Emberá,Pollo O Gallina,kg,0.56699
+2003,Comarca Emberá,Porotos,kg,0.453592
+2003,Comarca Emberá,Queso (Blanco Y Amarillo),kg,6.25E-06
+2003,Comarca Emberá,Raspados Y Duros,kg,2.50E-06
+2003,Comarca Emberá,Sal,kg,0.1474174014
+2003,Comarca Emberá,Sardina Y Atún,kg,4.46E-06
+2003,Comarca Emberá,Tomate,kg,0.1190679014
+2003,Comarca Emberá,Yuca,kg,0.113398
+2003,Comarca Emberá,Ñame,kg,0.340194
+2003,Comarca Ngobe Bugle,Aceite Vegetal,kg,25.36224628
+2003,Comarca Ngobe Bugle,Aguacates,kg,6.06E-07
+2003,Comarca Ngobe Bugle,Ahí Verde,kg,0.2154562041
+2003,Comarca Ngobe Bugle,Ajo,kg,0.1814379391
+2003,Comarca Ngobe Bugle,Apio,kg,0.2041163946
+2003,Comarca Ngobe Bugle,Arroz,kg,0.1360776
+2003,Comarca Ngobe Bugle,Azúcar,kg,0.1360776054
+2003,Comarca Ngobe Bugle,Café Y Té,kg,0.2494778781
+2003,Comarca Ngobe Bugle,Carne De Res,kg,0.4989512
+2003,Comarca Ngobe Bugle,Carnes De Puerco,kg,0.4082327892
+2003,Comarca Ngobe Bugle,Cebolla,kg,0.226796
+2003,Comarca Ngobe Bugle,Cereales Y Cremas,kg,0.170098
+2003,Comarca Ngobe Bugle,Chocolates,kg,0.3401973958
+2003,Comarca Ngobe Bugle,Cigarrillo Y Tabaco,kg,0.0002083333333
+2003,Comarca Ngobe Bugle,Cocos (Pipas),kg,0.03401940135
+2003,Comarca Ngobe Bugle,Condimentos,kg,0.3628786054
+2003,Comarca Ngobe Bugle,"Culanto, Perejil, Cebollina",kg,0.1360801054
+2003,Comarca Ngobe Bugle,Embutidos,kg,4.31E-06
+2003,Comarca Ngobe Bugle,Enlatados Y Envasados,kg,2.29E-06
+2003,Comarca Ngobe Bugle,Frijoles,kg,0.226796
+2003,Comarca Ngobe Bugle,Galletas / Pasteles Y Dulces,kg,0.3401955625
+2003,Comarca Ngobe Bugle,Guineos (Bananos),kg,0.01511973333
+2003,Comarca Ngobe Bugle,Harina De Trigo,kg,0.1360776054
+2003,Comarca Ngobe Bugle,Huevos De Gallina,kg,2.00E-06
+2003,Comarca Ngobe Bugle,Lecha Evaporada,kg,2.06E-06
+2003,Comarca Ngobe Bugle,Leche En Polvo,kg,6.25E-06
+2003,Comarca Ngobe Bugle,Leche Líquida,kg,14.38455782
+2003,Comarca Ngobe Bugle,Lentejas,kg,0.2721552108
+2003,Comarca Ngobe Bugle,Manteca,kg,1.41E-06
+2003,Comarca Ngobe Bugle,Mantequilla,kg,0.453592
+2003,Comarca Ngobe Bugle,Margarina,kg,2.00E-06
+2003,Comarca Ngobe Bugle,Mayonesa,kg,5.71E-06
+2003,Comarca Ngobe Bugle,Maíz De Grano,kg,0.0680388
+2003,Comarca Ngobe Bugle,Otoes,kg,0.0680388027
+2003,Comarca Ngobe Bugle,Pan De Sal Y Pan De Dulce,kg,0.2267967143
+2003,Comarca Ngobe Bugle,"Panela, Raspadura, Etc",kg,0.113398
+2003,Comarca Ngobe Bugle,Papas,kg,0.1927765986
+2003,Comarca Ngobe Bugle,Pastas Alimenticias,kg,0.1133986032
+2003,Comarca Ngobe Bugle,Pastas De Tomate,kg,4.27E-06
+2003,Comarca Ngobe Bugle,Pastillas Y Confites,kg,5.56E-06
+2003,Comarca Ngobe Bugle,Pepino,kg,0.07937860315
+2003,Comarca Ngobe Bugle,Pescados,kg,0.226796
+2003,Comarca Ngobe Bugle,Picaritas,kg,5.00E-06
+2003,Comarca Ngobe Bugle,Plátanos Verdes,kg,0.04252425
+2003,Comarca Ngobe Bugle,Pollo O Gallina,kg,0.453592
+2003,Comarca Ngobe Bugle,Porotos,kg,0.340194
+2003,Comarca Ngobe Bugle,Preparación De Maíz,kg,0.170097
+2003,Comarca Ngobe Bugle,Primer otro,kg,2.848507333
+2003,Comarca Ngobe Bugle,Queso (Blanco Y Amarillo),kg,6.25E-06
+2003,Comarca Ngobe Bugle,Raspados Y Duros,kg,1.25E-06
+2003,Comarca Ngobe Bugle,Repollo,kg,0.226796
+2003,Comarca Ngobe Bugle,Sal,kg,0.05669944643
+2003,Comarca Ngobe Bugle,Sardina Y Atún,kg,3.23E-06
+2003,Comarca Ngobe Bugle,Segundo otro,kg,0.0453592
+2003,Comarca Ngobe Bugle,Sopa Enlatada,kg,6.67E-06
+2003,Comarca Ngobe Bugle,Tomate,kg,0.170097
+2003,Comarca Ngobe Bugle,Viscera De Res,kg,0.3628736054
+2003,Comarca Ngobe Bugle,Visceras De Pollo O Gallina,kg,0.2948347892
+2003,Comarca Ngobe Bugle,Yuca,kg,0.0453592
+2003,Comarca de San Blas,Aceite Vegetal,kg,9.4635262
+2003,Comarca de San Blas,Alimento Infantil,kg,1.00E-05
+2003,Comarca de San Blas,Arroz,kg,0.07937898043
+2003,Comarca de San Blas,Azúcar,kg,0.0793789464
+2003,Comarca de San Blas,Café Y Té,kg,0.2267985
+2003,Comarca de San Blas,Carnes De Puerco,kg,0.850485
+2003,Comarca de San Blas,Cebolla,kg,0.1360788554
+2003,Comarca de San Blas,Cereales Y Cremas,kg,4.38E-06
+2003,Comarca de San Blas,Chocolates,kg,0.2267998
+2003,Comarca de San Blas,Cigarrillo Y Tabaco,kg,0.0001666666667
+2003,Comarca de San Blas,Cocos (Pipas),kg,0.009072801606
+2003,Comarca de San Blas,Embutidos,kg,0.6803880054
+2003,Comarca de San Blas,Enlatados Y Envasados,kg,2.91E-06
+2003,Comarca de San Blas,Galletas / Pasteles Y Dulces,kg,3.64E-06
+2003,Comarca de San Blas,Guineos (Bananos),kg,0.113398
+2003,Comarca de San Blas,Harina De Trigo,kg,0.1474173968
+2003,Comarca de San Blas,Huevos De Gallina,kg,2.50E-06
+2003,Comarca de San Blas,Lecha Evaporada,kg,2.06E-06
+2003,Comarca de San Blas,Leche En Polvo,kg,6.25E-06
+2003,Comarca de San Blas,Lentejas,kg,0.1360781489
+2003,Comarca de San Blas,Limones,kg,8.93E-07
+2003,Comarca de San Blas,Mantequilla,kg,0.7711064216
+2003,Comarca de San Blas,Mariscos,kg,0.2494756
+2003,Comarca de San Blas,Mayonesa,kg,6.61E-06
+2003,Comarca de San Blas,Pan De Sal Y Pan De Dulce,kg,1.79E-06
+2003,Comarca de San Blas,"Panela, Raspadura, Etc",kg,0.226796
+2003,Comarca de San Blas,Papas,kg,0.226796
+2003,Comarca de San Blas,Pastas Alimenticias,kg,0.1474181593
+2003,Comarca de San Blas,Pastas De Tomate,kg,3.98E-06
+2003,Comarca de San Blas,Pastillas Y Confites,kg,4.17E-06
+2003,Comarca de San Blas,Pepino,kg,0.226796
+2003,Comarca de San Blas,Pescados,kg,0.453592
+2003,Comarca de San Blas,Picaritas,kg,5.00E-06
+2003,Comarca de San Blas,Plátanos Verdes,kg,0.05669924414
+2003,Comarca de San Blas,Pollo O Gallina,kg,0.6350287892
+2003,Comarca de San Blas,Porotos,kg,0.453592
+2003,Comarca de San Blas,Preparación De Maíz,kg,0.226796
+2003,Comarca de San Blas,Primer otro,kg,0.1157643472
+2003,Comarca de San Blas,Queso (Blanco Y Amarillo),kg,0.566993125
+2003,Comarca de San Blas,Raspados Y Duros,kg,1.25E-06
+2003,Comarca de San Blas,Remolacha,kg,0.226796
+2003,Comarca de San Blas,Repollo,kg,0.226796
+2003,Comarca de San Blas,Sal,kg,0.0510293206
+2003,Comarca de San Blas,Sardina Y Atún,kg,2.94E-06
+2003,Comarca de San Blas,Segundo otro,kg,7.78E-06
+2003,Comarca de San Blas,"Sodas, Refrescos Y Jugos",kg,2.86E-06
+2003,Comarca de San Blas,Sopa Enlatada,kg,6.67E-06
+2003,Comarca de San Blas,Tomate,kg,0.226796
+2003,Comarca de San Blas,Visceras De Pollo O Gallina,kg,0.680388
+2003,Comarca de San Blas,Yuca,kg,0.1020582
+2003,Comarca de San Blas,Zanahoria,kg,0.226796
+2003,Darién,Aceite Vegetal,kg,10.59914959
+2003,Darién,Aguacates,kg,0.05669975758
+2003,Darién,Ahí Verde,kg,0.226796
+2003,Darién,Ajo,kg,0.2267971364
+2003,Darién,Alimento Infantil,kg,6.75E-06
+2003,Darién,Apio,kg,0.3175143946
+2003,Darién,Arroz,kg,0.1417475
+2003,Darién,Arvejas,kg,0.2721552108
+2003,Darién,Azúcar,kg,0.06803913339
+2003,Darién,Café Y Té,kg,0.4082361983
+2003,Darién,Carne De Res,kg,0.680388
+2003,Darién,Carnes De Puerco,kg,0.56699
+2003,Darién,Cebolla,kg,0.2721552108
+2003,Darién,Cereales Y Cremas,kg,0.2267975
+2003,Darién,Chocolates,kg,8.83E-06
+2003,Darién,Cigarrillo Y Tabaco,kg,0.0001666666667
+2003,Darién,Cocos (Pipas),kg,0.03628735994
+2003,Darién,Condimentos,kg,0.3628786
+2003,Darién,"Culanto, Perejil, Cebollina",kg,0.2268043333
+2003,Darién,Embutidos,kg,0.2834971622
+2003,Darién,Enlatados Y Envasados,kg,3.05E-06
+2003,Darién,Frijoles,kg,0.226796
+2003,Darién,Galletas / Pasteles Y Dulces,kg,3.58E-06
+2003,Darién,Gelatinas,kg,4.56E-06
+2003,Darién,Guineos (Bananos),kg,0.0453592
+2003,Darién,Harina De Trigo,kg,0.07937897365
+2003,Darién,Helados,kg,24.79443532
+2003,Darién,Huevos De Gallina,kg,2.23E-06
+2003,Darién,Lecha Evaporada,kg,2.35E-06
+2003,Darién,Leche En Polvo,kg,6.37E-06
+2003,Darién,Lechuga,kg,0.3175143856
+2003,Darién,Lentejas,kg,0.3175143946
+2003,Darién,Limones,kg,0.2608154
+2003,Darién,Mantequilla,kg,0.510291
+2003,Darién,Manzanas,kg,0.3685435
+2003,Darién,Margarina,kg,0.453592
+2003,Darién,Mariscos,kg,0.453592
+2003,Darién,Mayonesa,kg,6.90E-06
+2003,Darién,Maíz De Grano,kg,0.113398
+2003,Darién,Maíz De Mazorca,kg,0.0680388
+2003,Darién,Melones,kg,0.1020582018
+2003,Darién,Naranjas,kg,0.0453592
+2003,Darién,Otoes,kg,0.0907184
+2003,Darién,Pan De Sal Y Pan De Dulce,kg,2.86E-06
+2003,Darién,"Panela, Raspadura, Etc",kg,0.170097
+2003,Darién,Papas,kg,0.181436805
+2003,Darién,Papayas,kg,0.113398
+2003,Darién,Pastas Alimenticias,kg,0.1360782525
+2003,Darién,Pastas De Tomate,kg,4.27E-06
+2003,Darién,Pastillas Y Confites,kg,6.80E-06
+2003,Darién,Pepino,kg,0.113398
+2003,Darién,Pescados,kg,0.226796
+2003,Darién,Picaritas,kg,6.00E-06
+2003,Darién,Piñas,kg,0.0850485
+2003,Darién,Plátanos Verdes,kg,0.02834974414
+2003,Darién,Pollo O Gallina,kg,0.56699
+2003,Darién,Porotos,kg,0.4082327892
+2003,Darién,Preparación De Maíz,kg,0.07937933394
+2003,Darién,Primer otro,kg,0.453592
+2003,Darién,Queso (Blanco Y Amarillo),kg,0.3061777304
+2003,Darién,Raspados Y Duros,kg,1.25E-06
+2003,Darién,Remolacha,kg,0.2948348027
+2003,Darién,Repollo,kg,0.2721551928
+2003,Darién,Sal,kg,0.05669929412
+2003,Darién,Sandias,kg,0.1587572
+2003,Darién,Sardina Y Atún,kg,4.17E-06
+2003,Darién,"Sodas, Refrescos Y Jugos",kg,4.82E-06
+2003,Darién,Sopa Enlatada,kg,6.67E-06
+2003,Darién,Tomate,kg,0.2721552108
+2003,Darién,Viscera De Res,kg,0.5896695784
+2003,Darién,Visceras De Pollo O Gallina,kg,0.453592
+2003,Darién,Yuca,kg,0.0680388
+2003,Darién,Zanahoria,kg,0.226796
+2003,Darién,Zapallo / Chayote,kg,0.1587571973
+2003,Darién,Ñame,kg,0.113398
+2003,Herrera,Aceite Vegetal,kg,17.79142628
+2003,Herrera,Ahí Verde,kg,0.226796
+2003,Herrera,Ajo,kg,0.1587581973
+2003,Herrera,Alimento Infantil,kg,5.59E-06
+2003,Herrera,Apio,kg,0.226796
+2003,Herrera,Arroz,kg,0.1360776
+2003,Herrera,Arvejas,kg,0.226796
+2003,Herrera,Azúcar,kg,0.1249645958
+2003,Herrera,Café Y Té,kg,0.5136963458
+2003,Herrera,Carne De Res,kg,0.7030676144
+2003,Herrera,Carnes De Puerco,kg,0.56699
+2003,Herrera,Cebolla,kg,0.226796
+2003,Herrera,Cereales Y Cremas,kg,0.1338108976
+2003,Herrera,Chocolates,kg,6.25E-06
+2003,Herrera,Cigarrillo Y Tabaco,kg,0.0001666666667
+2003,Herrera,Cocos (Pipas),kg,0.056699
+2003,Herrera,Condimentos,kg,0.3628786054
+2003,Herrera,"Culanto, Perejil, Cebollina",kg,0.1814418027
+2003,Herrera,Embutidos,kg,0.3023963333
+2003,Herrera,Enlatados Y Envasados,kg,1.85E-06
+2003,Herrera,Frijoles,kg,0.1133986342
+2003,Herrera,Galletas / Pasteles Y Dulces,kg,3.14E-06
+2003,Herrera,Gelatinas,kg,0.3628757231
+2003,Herrera,Guineos (Bananos),kg,0.0680388027
+2003,Herrera,Harina De Trigo,kg,0.06803973128
+2003,Herrera,Helados,kg,21.95537872
+2003,Herrera,Lecha Evaporada,kg,1.94E-06
+2003,Herrera,Leche En Polvo,kg,2.402102106
+2003,Herrera,Leche Líquida,kg,10.78841859
+2003,Herrera,Lechuga,kg,0.226796
+2003,Herrera,Lentejas,kg,0.2721552108
+2003,Herrera,Licores Varios,kg,52.99574
+2003,Herrera,Manteca,kg,0.09638984618
+2003,Herrera,Mantequilla,kg,0.226797475
+2003,Herrera,Manzanas,kg,1.49E-06
+2003,Herrera,Margarina,kg,0.2267974
+2003,Herrera,Mariscos,kg,0.680388
+2003,Herrera,Mayonesa,kg,5.42E-06
+2003,Herrera,Maíz De Grano,kg,0.113398
+2003,Herrera,Melones,kg,0.08504850141
+2003,Herrera,Miel,kg,11.35623
+2003,Herrera,Otoes,kg,0.170097
+2003,Herrera,Pan De Sal Y Pan De Dulce,kg,1.92E-06
+2003,Herrera,"Panela, Raspadura, Etc",kg,0.1587571973
+2003,Herrera,Papas,kg,0.1814368
+2003,Herrera,Papayas,kg,0.07559866667
+2003,Herrera,Pastas Alimenticias,kg,0.1247384514
+2003,Herrera,Pastas De Tomate,kg,3.48E-06
+2003,Herrera,Pastillas Y Confites,kg,4.76E-06
+2003,Herrera,Pepino,kg,0.09071840135
+2003,Herrera,Pescados,kg,0.2721552108
+2003,Herrera,Picaritas,kg,4.80E-06
+2003,Herrera,Piñas,kg,0.113398
+2003,Herrera,Plátanos Verdes,kg,0.07559866366
+2003,Herrera,Pollo O Gallina,kg,0.453592
+2003,Herrera,Porotos,kg,0.181437437
+2003,Herrera,Preparación De Maíz,kg,0.05670103042
+2003,Herrera,Primer otro,kg,0.2268015398
+2003,Herrera,Queso (Blanco Y Amarillo),kg,0.4989543358
+2003,Herrera,Remolacha,kg,0.226796
+2003,Herrera,Repollo,kg,0.226796
+2003,Herrera,Sal,kg,0.0566991652
+2003,Herrera,Sardina Y Atún,kg,3.44E-06
+2003,Herrera,Segundo otro,kg,0.2324683196
+2003,Herrera,"Sodas, Refrescos Y Jugos",kg,5.204942455
+2003,Herrera,Sopa Enlatada,kg,6.37E-06
+2003,Herrera,Tercer otro,kg,0.340194
+2003,Herrera,Tomate,kg,0.2494756054
+2003,Herrera,Viscera De Res,kg,0.56699
+2003,Herrera,Visceras De Pollo O Gallina,kg,0.3628736054
+2003,Herrera,Yuca,kg,0.09071840135
+2003,Herrera,Zanahoria,kg,0.226796
+2003,Herrera,Zapallo / Chayote,kg,0.09071840135
+2003,Herrera,Ñame,kg,0.226796
+2003,Los Santos,Aceite Vegetal,kg,17.79142628
+2003,Los Santos,Ahí Verde,kg,0.226796
+2003,Los Santos,Ajo,kg,0.1700985152
+2003,Los Santos,Alimento Infantil,kg,5.81E-06
+2003,Los Santos,Apio,kg,0.2474138227
+2003,Los Santos,Arroz,kg,0.1360776
+2003,Los Santos,Arvejas,kg,0.226796
+2003,Los Santos,Azúcar,kg,0.1360776
+2003,Los Santos,Café Y Té,kg,0.5420458729
+2003,Los Santos,Carne De Res,kg,0.7257471876
+2003,Los Santos,Carnes De Puerco,kg,0.6180191
+2003,Los Santos,Cebolla,kg,0.226796
+2003,Los Santos,Cereales Y Cremas,kg,0.1338108841
+2003,Los Santos,Chocolates,kg,0.3401970435
+2003,Los Santos,Cigarrillo Y Tabaco,kg,0.0001666666667
+2003,Los Santos,Cocos (Pipas),kg,0.02834949812
+2003,Los Santos,Condimentos,kg,0.3628786054
+2003,Los Santos,"Culanto, Perejil, Cebollina",kg,0.1814451405
+2003,Los Santos,Embutidos,kg,0.3175160613
+2003,Los Santos,Enlatados Y Envasados,kg,2.10E-06
+2003,Los Santos,Frijoles,kg,0.226796
+2003,Los Santos,Galletas / Pasteles Y Dulces,kg,0.6803895625
+2003,Los Santos,Gelatinas,kg,0.2903009164
+2003,Los Santos,Guineos (Bananos),kg,0.04535920068
+2003,Los Santos,Harina De Trigo,kg,0.07711163968
+2003,Los Santos,Helados,kg,23.46954128
+2003,Los Santos,Huevos De Gallina,kg,1.75E-06
+2003,Los Santos,Lecha Evaporada,kg,2.06E-06
+2003,Los Santos,Leche En Polvo,kg,2.094204731
+2003,Los Santos,Leche Líquida,kg,7.57082
+2003,Los Santos,Lechuga,kg,0.2721552108
+2003,Los Santos,Lentejas,kg,0.2721552108
+2003,Los Santos,Limones,kg,0.05669944643
+2003,Los Santos,Manteca,kg,9.463525
+2003,Los Santos,Mantequilla,kg,0.453593575
+2003,Los Santos,Manzanas,kg,1.49E-06
+2003,Los Santos,Margarina,kg,0.2267971564
+2003,Los Santos,Mariscos,kg,0.907184
+2003,Los Santos,Mayonesa,kg,5.00E-06
+2003,Los Santos,Maíz De Grano,kg,0.113398
+2003,Los Santos,Melones,kg,0.08025089298
+2003,Los Santos,Miel,kg,3.785411057
+2003,Los Santos,Otoes,kg,0.1814368027
+2003,Los Santos,Pan De Sal Y Pan De Dulce,kg,0.1738778555
+2003,Los Santos,"Panela, Raspadura, Etc",kg,0.113398
+2003,Los Santos,Papas,kg,0.09071905492
+2003,Los Santos,Papayas,kg,0.0907183976
+2003,Los Santos,Pastas Alimenticias,kg,0.124738584
+2003,Los Santos,Pastas De Tomate,kg,3.67E-06
+2003,Los Santos,Pastillas Y Confites,kg,0.226798381
+2003,Los Santos,Pepino,kg,0.09071840135
+2003,Los Santos,Pescados,kg,0.3628736054
+2003,Los Santos,Picaritas,kg,5.26E-06
+2003,Los Santos,Piñas,kg,0.113398
+2003,Los Santos,Pollo O Gallina,kg,0.453592
+2003,Los Santos,Porotos,kg,0.3628736054
+2003,Los Santos,Preparación De Maíz,kg,0.0680401527
+2003,Los Santos,Primer otro,kg,2.656662486
+2003,Los Santos,Queso (Blanco Y Amarillo),kg,0.3657116777
+2003,Los Santos,Raspados Y Duros,kg,1.25E-06
+2003,Los Santos,Remolacha,kg,0.2472076476
+2003,Los Santos,Repollo,kg,0.226796
+2003,Los Santos,Sal,kg,0.113398
+2003,Los Santos,Sandias,kg,0.2018484368
+2003,Los Santos,Sardina Y Atún,kg,3.64E-06
+2003,Los Santos,Segundo otro,kg,0.1700987143
+2003,Los Santos,"Sodas, Refrescos Y Jugos",kg,6.245926963
+2003,Los Santos,Sopa Enlatada,kg,6.37E-06
+2003,Los Santos,Tercer otro,kg,0.1360795764
+2003,Los Santos,Tomate,kg,0.2721552108
+2003,Los Santos,Viscera De Res,kg,0.56699
+2003,Los Santos,Visceras De Pollo O Gallina,kg,0.453592
+2003,Los Santos,Yuca,kg,0.09071840135
+2003,Los Santos,Zanahoria,kg,0.226796
+2003,Los Santos,Zapallo / Chayote,kg,0.113398
+2003,Los Santos,Ñame,kg,0.340194
+2003,Panamá,Aceite Vegetal,kg,8.517173606
+2003,Panamá,Aguacates,kg,0.3401949596
+2003,Panamá,Ahí Verde,kg,0.1133996264
+2003,Panamá,Ajo,kg,0.1360791054
+2003,Panamá,Alimento Infantil,kg,0.4649345392
+2003,Panamá,Apio,kg,0.1360787067
+2003,Panamá,Arroz,kg,0.1360776
+2003,Panamá,Arvejas,kg,0.1133984405
+2003,Panamá,Azúcar,kg,0.068039163
+2003,Panamá,Café Y Té,kg,0.5080264513
+2003,Panamá,Carne De Res,kg,0.4082348842
+2003,Panamá,Carnes De Puerco,kg,0.342842263
+2003,Panamá,Cebolla,kg,0.1133985876
+2003,Panamá,Cereales Y Cremas,kg,0.1338115221
+2003,Panamá,Chocolates,kg,0.2551497589
+2003,Panamá,Cigarrillo Y Tabaco,kg,0.0001666666667
+2003,Panamá,Cocos (Pipas),kg,0.04535956778
+2003,Panamá,Condimentos,kg,0.3628786
+2003,Panamá,"Culanto, Perejil, Cebollina",kg,0.226801
+2003,Panamá,Embutidos,kg,0.3175160968
+2003,Panamá,Enlatados Y Envasados,kg,0.1910766728
+2003,Panamá,Frijoles,kg,0.1360781836
+2003,Panamá,Galletas / Pasteles Y Dulces,kg,0.3628751714
+2003,Panamá,Gelatinas,kg,0.2925689037
+2003,Panamá,Guineos (Bananos),kg,0.04535920068
+2003,Panamá,Harina De Trigo,kg,0.07937909752
+2003,Panamá,Helados,kg,10.40987899
+2003,Panamá,Huevos De Gallina,kg,1.92E-06
+2003,Panamá,Lecha Evaporada,kg,1.84E-06
+2003,Panamá,Leche En Polvo,kg,2.323002053
+2003,Panamá,Leche Líquida,kg,10.97768936
+2003,Panamá,Lechuga,kg,0.2721552108
+2003,Panamá,Lentejas,kg,0.1360782629
+2003,Panamá,Licores Varios,kg,45.51955561
+2003,Panamá,Limones,kg,0.1133984464
+2003,Panamá,Mangos,kg,0.03779968209
+2003,Panamá,Manteca,kg,0.1133985952
+2003,Panamá,Mantequilla,kg,0.226797625
+2003,Panamá,Manzanas,kg,0.1133986608
+2003,Panamá,Margarina,kg,0.22679755
+2003,Panamá,Mariscos,kg,0.4535942283
+2003,Panamá,Mayonesa,kg,4.86E-06
+2003,Panamá,Maíz De Grano,kg,0.04535940442
+2003,Panamá,Maíz De Mazorca,kg,0.05669972254
+2003,Panamá,Melones,kg,0.05669996148
+2003,Panamá,Miel,kg,11.3562325
+2003,Panamá,Naranjas,kg,0.02267983862
+2003,Panamá,Otoes,kg,0.09071880813
+2003,Panamá,Pan De Sal Y Pan De Dulce,kg,1.083159091
+2003,Panamá,"Panela, Raspadura, Etc",kg,0.09071928173
+2003,Panamá,Papas,kg,0.1511973333
+2003,Panamá,Papayas,kg,0.1379975643
+2003,Panamá,Pastas Alimenticias,kg,0.1247384498
+2003,Panamá,Pastas De Tomate,kg,0.3269658659
+2003,Panamá,Pastillas Y Confites,kg,0.226798381
+2003,Panamá,Pepino,kg,0.05669951395
+2003,Panamá,Pescados,kg,0.3175143946
+2003,Panamá,Picaritas,kg,6.00E-06
+2003,Panamá,Piñas,kg,0.113398
+2003,Panamá,Plátanos Verdes,kg,0.05669927533
+2003,Panamá,Pollo O Gallina,kg,0.2041179832
+2003,Panamá,Porotos,kg,0.1927774778
+2003,Panamá,Preparación De Maíz,kg,0.1133984412
+2003,Panamá,Primer otro,kg,0.2041183613
+2003,Panamá,Queso (Blanco Y Amarillo),kg,0.4649349142
+2003,Panamá,Raspados Y Duros,kg,0.05670025141
+2003,Panamá,Remolacha,kg,0.1247386574
+2003,Panamá,Repollo,kg,0.1133985507
+2003,Panamá,Sal,kg,0.05669929412
+2003,Panamá,Sandias,kg,0.1360776
+2003,Panamá,Sardina Y Atún,kg,0.1530890652
+2003,Panamá,Segundo otro,kg,0.1701001785
+2003,Panamá,"Sodas, Refrescos Y Jugos",kg,4.35322466
+2003,Panamá,Sopa Enlatada,kg,5.83E-06
+2003,Panamá,Tercer otro,kg,0.1576248093
+2003,Panamá,Tomate,kg,0.1360786827
+2003,Panamá,Viscera De Res,kg,0.6350287892
+2003,Panamá,Visceras De Pollo O Gallina,kg,0.1814381243
+2003,Panamá,Yuca,kg,0.0680388027
+2003,Panamá,Zanahoria,kg,0.1814368027
+2003,Panamá,Zapallo / Chayote,kg,0.0566993304
+2003,Panamá,Ñame,kg,0.1360785797
+2003,Veraguas,Aceite Vegetal,kg,17.16683467
+2003,Veraguas,Aguacates,kg,0.04252470455
+2003,Veraguas,Ahí Verde,kg,0.226796
+2003,Veraguas,Ajo,kg,0.1360796887
+2003,Veraguas,Alimento Infantil,kg,4.46E-06
+2003,Veraguas,Apio,kg,0.2449396897
+2003,Veraguas,Arroz,kg,0.1360776
+2003,Veraguas,Arvejas,kg,0.2154561973
+2003,Veraguas,Azúcar,kg,0.1224698404
+2003,Veraguas,Café Y Té,kg,0.2721579417
+2003,Veraguas,Carne De Res,kg,0.680388
+2003,Veraguas,Carnes De Puerco,kg,0.5443104216
+2003,Veraguas,Cebolla,kg,0.1133984167
+2003,Veraguas,Cereales Y Cremas,kg,0.1183131632
+2003,Veraguas,Chocolates,kg,0.6577114118
+2003,Veraguas,Cigarrillo Y Tabaco,kg,0.0001666666667
+2003,Veraguas,Condimentos,kg,0.3628786054
+2003,Veraguas,"Culanto, Perejil, Cebollina",kg,0.22680225
+2003,Veraguas,Embutidos,kg,0.340195652
+2003,Veraguas,Enlatados Y Envasados,kg,2.12E-06
+2003,Veraguas,Frijoles,kg,0.226796
+2003,Veraguas,Galletas / Pasteles Y Dulces,kg,3.13E-06
+2003,Veraguas,Gelatinas,kg,0.3288562108
+2003,Veraguas,Guineos (Bananos),kg,0.04535920068
+2003,Veraguas,Harina De Trigo,kg,0.06803919962
+2003,Veraguas,Helados,kg,21.38756596
+2003,Veraguas,Huevos De Gallina,kg,2.00E-06
+2003,Veraguas,Lecha Evaporada,kg,1.97E-06
+2003,Veraguas,Leche En Polvo,kg,2.284640413
+2003,Veraguas,Leche Líquida,kg,11.54550077
+2003,Veraguas,Lechuga,kg,0.2585474413
+2003,Veraguas,Lentejas,kg,0.2585474368
+2003,Veraguas,Licores Varios,kg,68.13738
+2003,Veraguas,Manteca,kg,0.1133987353
+2003,Veraguas,Mantequilla,kg,0.2494767116
+2003,Veraguas,Manzanas,kg,0.1312184036
+2003,Veraguas,Margarina,kg,0.22679725
+2003,Veraguas,Mariscos,kg,0.6425886667
+2003,Veraguas,Mayonesa,kg,4.86E-06
+2003,Veraguas,Maíz De Grano,kg,0.04535942026
+2003,Veraguas,Maíz De Mazorca,kg,1.43E-06
+2003,Veraguas,Melones,kg,0.09575831111
+2003,Veraguas,Miel,kg,5.299577275
+2003,Veraguas,Otoes,kg,0.1814368027
+2003,Veraguas,Pan De Sal Y Pan De Dulce,kg,1.79E-06
+2003,Veraguas,"Panela, Raspadura, Etc",kg,0.113398
+2003,Veraguas,Papas,kg,0.1587572
+2003,Veraguas,Papayas,kg,0.1511973333
+2003,Veraguas,Pastas Alimenticias,kg,0.1133986471
+2003,Veraguas,Pastas De Tomate,kg,0.113399875
+2003,Veraguas,Pastillas Y Confites,kg,0.2381381837
+2003,Veraguas,Pepino,kg,0.09071840135
+2003,Veraguas,Pescados,kg,0.226796
+2003,Veraguas,Picaritas,kg,4.29E-06
+2003,Veraguas,Piñas,kg,0.1511973333
+2003,Veraguas,Plátanos Verdes,kg,0.04535946222
+2003,Veraguas,Pollo O Gallina,kg,0.453592
+2003,Veraguas,Porotos,kg,0.340194
+2003,Veraguas,Preparación De Maíz,kg,0.05670265639
+2003,Veraguas,Primer otro,kg,0.8517187838
+2003,Veraguas,Queso (Blanco Y Amarillo),kg,0.5193659563
+2003,Veraguas,Raspados Y Duros,kg,1.25E-06
+2003,Veraguas,Remolacha,kg,0.2721552108
+2003,Veraguas,Repollo,kg,0.226796
+2003,Veraguas,Sal,kg,0.05669927533
+2003,Veraguas,Sandias,kg,0.1984465
+2003,Veraguas,Sardina Y Atún,kg,3.46E-06
+2003,Veraguas,Segundo otro,kg,3.20E-06
+2003,Veraguas,"Sodas, Refrescos Y Jugos",kg,3.78541044
+2003,Veraguas,Sopa Enlatada,kg,6.37E-06
+2003,Veraguas,Tomate,kg,0.2494756054
+2003,Veraguas,Viscera De Res,kg,0.3779933333
+2003,Veraguas,Visceras De Pollo O Gallina,kg,0.3303661782
+2003,Veraguas,Yuca,kg,0.0680388
+2003,Veraguas,Zanahoria,kg,0.226796
+2003,Veraguas,Zapallo / Chayote,kg,0.1020582018
+2003,Veraguas,Ñame,kg,0.2381358027
